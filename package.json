@@ -1,6 +1,7 @@
 {
   "name": "little-lemon",
-  "version": "1.1.2",
+  "version": "1.1.3",
+  "homepage": "https://abdullah-alwajih.github.io/little-lemon",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
