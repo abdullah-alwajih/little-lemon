@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d31bce2-3ae5-497f-9883-e38fcaab4fe6" name="Changes" comment="build">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/css/main.fee6356c.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/css/main.fee6356c.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/496.a961b8ef.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/496.a961b8ef.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.b20305da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.b20305da.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.b20305da.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/Logo.da47a53ac10fc80c9f3e2f416b8a339a.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/delivery.efa8a74c72f4bd4855a5c5ceeaecf18c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/hamburger.6aa7fd686d8a816eb3d4c0d866890776.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/logo-white.d09eb2af6c5a2225eedf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/restauranfood.e8abf5b772b6817189aa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/restaurant.324d0f99bdf19400a0f7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/restaurantchef.4b4c2d26b514db32e8fc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/star.569f4d156480511811a720c1a7de663c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="2d31bce2-3ae5-497f-9883-e38fcaab4fe6" name="Changes" comment="build" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +171,7 @@
       <workItem from="1703339059183" duration="30000" />
       <workItem from="1703339090915" duration="403000" />
       <workItem from="1703339536456" duration="774000" />
-      <workItem from="1703340316926" duration="1041000" />
+      <workItem from="1703340316926" duration="1342000" />
     </task>
     <task id="LOCAL-00001" summary="build">
       <option name="closed" value="true" />
@@ -213,7 +189,31 @@
       <option name="project" value="LOCAL" />
       <updated>1703341056360</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="build">
+      <option name="closed" value="true" />
+      <created>1703341379414</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703341379414</updated>
+    </task>
+    <task id="LOCAL-00004" summary="build">
+      <option name="closed" value="true" />
+      <created>1703341495470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703341495470</updated>
+    </task>
+    <task id="LOCAL-00005" summary="build">
+      <option name="closed" value="true" />
+      <created>1703341611170</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703341611170</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
