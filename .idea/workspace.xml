@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d31bce2-3ae5-497f-9883-e38fcaab4fe6" name="Changes" comment="build">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="npm.predeploy">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="renders BookingForm component" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
@@ -146,10 +146,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.predeploy" />
         <item itemvalue="npm.deploy" />
-        <item itemvalue="npm.build" />
+        <item itemvalue="npm.predeploy" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
         <item itemvalue="Jest.renders BookingForm component" />
       </list>
     </recent_temporary>
@@ -174,7 +174,7 @@
       <workItem from="1703339059183" duration="30000" />
       <workItem from="1703339090915" duration="403000" />
       <workItem from="1703339536456" duration="774000" />
-      <workItem from="1703340316926" duration="2043000" />
+      <workItem from="1703340316926" duration="2721000" />
     </task>
     <task id="LOCAL-00001" summary="build">
       <option name="closed" value="true" />
@@ -232,7 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703342359809</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="build">
+      <option name="closed" value="true" />
+      <created>1703342369515</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703342369515</updated>
+    </task>
+    <task id="LOCAL-00009" summary="build">
+      <option name="closed" value="true" />
+      <created>1703342565406</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703342565406</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
