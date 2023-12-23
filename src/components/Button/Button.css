@@ -1,0 +1,14 @@
+.button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background: var(--primary-color);
+  color: var(--secondary-color);
+  font-weight: bold;
+  border: 0.1875rem solid var(--primary-color);
+  font-size: 1em;
+}
+
+.button:active {
+  background-color: var(--secondary-color);
+  color: var(--white-color);
+}

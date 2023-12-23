@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d31bce2-3ae5-497f-9883-e38fcaab4fe6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/meta-frontend-capstone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/Logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/delivery.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/delivery.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/hamburger.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/hamburger.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/star.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/star.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Popup/Popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Popup/Popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Popup/Popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Popup/Popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Popup/Popup.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Popup/Popup.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Footer/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Footer/Footer.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Footer/Footer.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Layout/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Layout/Layout.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Layout/Layout.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About/About.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About/About.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Login/Login.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Login/Login.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Menu/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Menu/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Menu/Menu.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Menu/Menu.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Orders/Orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Orders/Orders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Orders/Orders.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Orders/Orders.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Reservations/Reservations.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Reservations/Reservations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Reservations/Reservations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Reservations/Reservations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Reservations/Reservations.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Reservations/Reservations.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/About/About.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/About/About.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/About/About.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Specials/Specials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Specials/Specials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Specials/Specials.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Specials/Specials.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/UnderConstruction/UnderConstruction.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/UnderConstruction/UnderConstruction.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sections/UnderConstruction/UnderConstruction.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/UnderConstruction/UnderConstruction.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/pages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/pages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wireframe/capstone-frontend.fig" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZwaEVY25GPwep2FAHoK56y5sGr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Jest.renders BookingForm component.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/mdd/PycharmProjects/little-lemon-abdullah-alwajih",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/home/mdd/PycharmProjects/meta-frontend-capstone/node_modules/react-scripts",
+    "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
+    "npm.upgrade.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="renders BookingForm component" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/BookingForm/BookingForm.test.js" />
+      <test-names>
+        <test-name value="renders BookingForm component" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="upgrade" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="upgrade" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="Jest.renders BookingForm component" />
+        <item itemvalue="npm.upgrade" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d31bce2-3ae5-497f-9883-e38fcaab4fe6" name="Changes" comment="" />
+      <created>1703335484112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703335484112</updated>
+      <workItem from="1703335485452" duration="3151000" />
+      <workItem from="1703338821947" duration="73000" />
+      <workItem from="1703339059183" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
