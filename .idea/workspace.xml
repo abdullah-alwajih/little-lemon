@@ -5,79 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d31bce2-3ae5-497f-9883-e38fcaab4fe6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/meta-frontend-capstone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/Logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/Logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/delivery.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/delivery.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/hamburger.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/hamburger.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/star.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/star.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookingForm/BookingForm.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FoodCard/FoodCard.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Popup/Popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Popup/Popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Popup/Popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Popup/Popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Popup/Popup.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Popup/Popup.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TestimonialCard/TestimonialCard.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Footer/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Footer/Footer.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Footer/Footer.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Layout/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Layout/Layout.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Layout/Layout.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Topbar/Topbar.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/About/About.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About/About.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Login/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Login/Login.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Login/Login.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Menu/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Menu/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Menu/Menu.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Menu/Menu.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Orders/Orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Orders/Orders.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Orders/Orders.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Orders/Orders.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Reservations/Reservations.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Reservations/Reservations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Reservations/Reservations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Reservations/Reservations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Reservations/Reservations.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Reservations/Reservations.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/About/About.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/About/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/About/About.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/About/About.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Hero/Hero.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Specials/Specials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Specials/Specials.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Specials/Specials.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Specials/Specials.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/Testimonials/Testimonials.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/UnderConstruction/UnderConstruction.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/UnderConstruction/UnderConstruction.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Sections/UnderConstruction/UnderConstruction.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sections/UnderConstruction/UnderConstruction.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/Api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/pages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/pages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wireframe/capstone-frontend.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +28,29 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1703339253" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1703339252" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -108,31 +59,32 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2ZwaEVY25GPwep2FAHoK56y5sGr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Jest.renders BookingForm component.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/mdd/PycharmProjects/little-lemon-abdullah-alwajih",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs.jest.jest_package": "/home/mdd/PycharmProjects/meta-frontend-capstone/node_modules/react-scripts",
-    "nodejs_package_manager_path": "npm",
-    "npm.start.executor": "Run",
-    "npm.upgrade.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Jest.renders BookingForm component.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mdd/PycharmProjects/little-lemon-abdullah-alwajih&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;/home/mdd/PycharmProjects/meta-frontend-capstone/node_modules/react-scripts&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;npm.upgrade.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="npm.start">
     <configuration name="renders BookingForm component" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
@@ -192,6 +144,8 @@
       <workItem from="1703335485452" duration="3151000" />
       <workItem from="1703338821947" duration="73000" />
       <workItem from="1703339059183" duration="30000" />
+      <workItem from="1703339090915" duration="403000" />
+      <workItem from="1703339536456" duration="774000" />
     </task>
     <servers />
   </component>
